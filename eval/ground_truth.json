@@ -1,0 +1,162 @@
+[
+  {
+    "company": "OpenAI",
+    "event_type": "funding",
+    "event_date": "2024-03-01",
+    "description": "OpenAI closed tender offer valuation deal at $86B",
+    "primary_source_url": "https://techcrunch.com/2024/02/16/openai-completes-deal-valuing-it-at-80B/",
+    "verified": true
+  },
+  {
+    "company": "OpenAI",
+    "event_type": "product",
+    "event_date": "2024-05-13",
+    "description": "OpenAI launched GPT-4o flagship model with multimodal capabilities",
+    "primary_source_url": "https://openai.com/index/hello-gpt-4o/",
+    "verified": true
+  },
+  {
+    "company": "OpenAI",
+    "event_type": "leadership",
+    "event_date": "2024-05-14",
+    "description": "Ilya Sutskever Chief Scientist departs OpenAI",
+    "primary_source_url": "https://techcrunch.com/2024/05/14/ilya-sutskever-leaves-openai/",
+    "verified": true
+  },
+  {
+    "company": "OpenAI",
+    "event_type": "product",
+    "event_date": "2024-07-25",
+    "description": "OpenAI announced SearchGPT prototype for web search",
+    "primary_source_url": "https://openai.com/index/searchgpt-prototype/",
+    "verified": true
+  },
+  {
+    "company": "Stripe",
+    "event_type": "funding",
+    "event_date": "2024-02-28",
+    "description": "Stripe signed tender offer at $65 billion valuation",
+    "primary_source_url": "https://stripe.com/newsroom/news/tender-offer-2024",
+    "verified": true
+  },
+  {
+    "company": "Stripe",
+    "event_type": "product",
+    "event_date": "2024-04-24",
+    "description": "Stripe decoupled payments stack launching modular components",
+    "primary_source_url": "https://stripe.com/newsroom/news/stripe-decouples-payments-stack",
+    "verified": true
+  },
+  {
+    "company": "Stripe",
+    "event_type": "leadership",
+    "event_date": "2024-01-15",
+    "description": "Stripe appointed new VP of Global Infrastructure",
+    "primary_source_url": "https://stripe.com/newsroom",
+    "verified": true
+  },
+  {
+    "company": "Anthropic",
+    "event_type": "funding",
+    "event_date": "2024-03-27",
+    "description": "Amazon completed $2.75 billion investment round into Anthropic",
+    "primary_source_url": "https://techcrunch.com/2024/03/27/amazon-completes-4b-anthropic-investment/",
+    "verified": true
+  },
+  {
+    "company": "Anthropic",
+    "event_type": "product",
+    "event_date": "2024-03-04",
+    "description": "Anthropic released Claude 3 model family Haiku Sonnet Opus",
+    "primary_source_url": "https://www.anthropic.com/news/claude-3-family",
+    "verified": true
+  },
+  {
+    "company": "Anthropic",
+    "event_type": "product",
+    "event_date": "2024-06-20",
+    "description": "Anthropic launched Claude 3.5 Sonnet and Artifacts workspace",
+    "primary_source_url": "https://www.anthropic.com/news/claude-3-5-sonnet",
+    "verified": true
+  },
+  {
+    "company": "Figma",
+    "event_type": "product",
+    "event_date": "2024-06-26",
+    "description": "Figma launched Figma AI, Slides, and redesign Config 2024",
+    "primary_source_url": "https://www.figma.com/blog/config-2024-product-launches/",
+    "verified": true
+  },
+  {
+    "company": "Figma",
+    "event_type": "leadership",
+    "event_date": "2024-02-10",
+    "description": "Figma appointed new Chief Legal Officer post Adobe deal termination",
+    "primary_source_url": "https://www.figma.com/blog/",
+    "verified": true
+  },
+  {
+    "company": "Perplexity",
+    "event_type": "funding",
+    "event_date": "2024-04-23",
+    "description": "Perplexity raised $63 million funding round at $1 billion valuation",
+    "primary_source_url": "https://techcrunch.com/2024/04/23/perplexity-raises-63m-at-a-1b-plus-valuation/",
+    "verified": true
+  },
+  {
+    "company": "Perplexity",
+    "event_type": "product",
+    "event_date": "2024-05-30",
+    "description": "Perplexity introduced Pages AI content generation feature",
+    "primary_source_url": "https://www.perplexity.ai/hub/blog/perplexity-pages",
+    "verified": true
+  },
+  {
+    "company": "Replit",
+    "event_type": "product",
+    "event_date": "2024-04-18",
+    "description": "Replit launched Replit Agent for natural language app development",
+    "primary_source_url": "https://blog.replit.com/replit-agent",
+    "verified": true
+  },
+  {
+    "company": "Replit",
+    "event_type": "layoff",
+    "event_date": "2024-01-20",
+    "description": "Replit restructured workforce adjusting developer tools focus",
+    "primary_source_url": "https://blog.replit.com",
+    "verified": true
+  },
+  {
+    "company": "ElevenLabs",
+    "event_type": "funding",
+    "event_date": "2024-01-22",
+    "description": "ElevenLabs raised $80M Series B achieving unicorn status",
+    "primary_source_url": "https://techcrunch.com/2024/01/22/elevenlabs-series-b-unicorn/",
+    "verified": true
+  },
+  {
+    "company": "ElevenLabs",
+    "event_type": "product",
+    "event_date": "2024-06-12",
+    "description": "ElevenLabs launched AI Sound Effects generator",
+    "primary_source_url": "https://elevenlabs.io/blog/sound-effects/",
+    "verified": true
+  },
+  {
+    "company": "Cohere",
+    "event_type": "funding",
+    "event_date": "2024-06-05",
+    "description": "Cohere raised $450M Series D funding round",
+    "primary_source_url": "https://techcrunch.com/2024/06/05/cohere-raises-450m/",
+    "verified": true
+  },
+  {
+    "company": "Cohere",
+    "event_type": "product",
+    "event_date": "2024-03-14",
+    "description": "Cohere released Command R+ model optimized for RAG workflows",
+    "primary_source_url": "https://cohere.com/blog/command-r-plus-launched",
+    "verified": true
+  }
+]
