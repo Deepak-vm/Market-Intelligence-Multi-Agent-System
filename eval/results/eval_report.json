@@ -1,0 +1,52 @@
+{
+  "timestamp": "2026-08-02T11:28:03.636349",
+  "ground_truth_total": 20,
+  "extracted_events_total": 222,
+  "per_category": {
+    "funding": {
+      "precision": 0.065,
+      "recall": 1.0,
+      "f1_score": 0.121,
+      "ground_truth": 6,
+      "extracted": 93,
+      "tp": 6,
+      "fp": 87,
+      "fn": 0
+    },
+    "leadership": {
+      "precision": 0.111,
+      "recall": 0.667,
+      "f1_score": 0.19,
+      "ground_truth": 3,
+      "extracted": 18,
+      "tp": 2,
+      "fp": 16,
+      "fn": 1
+    },
+    "product": {
+      "precision": 0.152,
+      "recall": 1.0,
+      "f1_score": 0.263,
+      "ground_truth": 10,
+      "extracted": 66,
+      "tp": 10,
+      "fp": 56,
+      "fn": 0
+    },
+    "layoff": {
+      "precision": 0.022,
+      "recall": 1.0,
+      "f1_score": 0.043,
+      "ground_truth": 1,
+      "extracted": 45,
+      "tp": 1,
+      "fp": 44,
+      "fn": 0
+    }
+  },
+  "blended": {
+    "precision": 0.086,
+    "recall": 0.95,
+    "f1_score": 0.157
+  }
+}
